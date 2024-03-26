@@ -18,8 +18,8 @@ Original data are saved into the `data-raw` folder.
 
 - `code` contains most of the Python scripts
 - `data-raw` contains the sub-folders `CNS`, `DyLNet`, and `Confs` where the original data are stored
-- `data-processed` contains the data after the pre-processing described in `data-curation`
 - `data-curation` contains the Jupyter notebooks that perform the pre-processing of the raw data from `data-raw`, saving the results in `data-processed`
+- `data-processed` contains the data after the pre-processing described in `data-curation`
 - `data-analysis` contains the Jupyter notebooks that analyse the empirical data already pre-processed in the `data-processed` folder
 - `model` contains the Jupyter notebooks that run the model and analyse the synthetic data
 - `Plotting_figures_*.ipynb` are Jupyter notebooks that produce most of the figures
