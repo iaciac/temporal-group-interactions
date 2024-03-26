@@ -23,3 +23,9 @@ Original data are saved into the `data-raw` folder.
 - `data-analysis` contains the Jupyter notebooks that analyse the empirical data already pre-processed in the `data-processed` folder
 - `model` contains the Jupyter notebooks that run the model and analyse the synthetic data
 - `Plotting_figures_*.ipynb` are Jupyter notebooks that produce most of the figures
+
+# Dependencies
+
+The code of the paper strongly relies on a number of exeternal Python libraries. The code has been originally run on a machine containing the following Python dependencies:
+
+- 
