@@ -22,7 +22,6 @@ Original data are saved into the `data-raw` folder.
 - `data-processed` contains the data after the pre-processing described in `data-curation`
 - `data-analysis` contains the Jupyter notebooks that analyse the empirical data already pre-processed in the `data-processed` folder
 - `model` contains the Jupyter notebooks that run the model and analyse the synthetic data
-- `Plotting_figures_*.ipynb` are Jupyter notebooks that produce most of the figures
 
 # Dependencies
 
