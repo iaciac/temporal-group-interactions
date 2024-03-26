@@ -28,4 +28,11 @@ Original data are saved into the `data-raw` folder.
 
 The code of the paper strongly relies on a number of exeternal Python libraries. The code has been originally run on a machine containing the following Python dependencies:
 
-- 
+- matplotlib 3.5.1
+- networkx 2.8
+- numpy 1.21.6
+- palettable 3.3.0
+- pandas 1.5.3
+- powerlaw 1.5
+- scipy 1.10.0
+- xgi 0.5.6
