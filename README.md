@@ -1,7 +1,7 @@
 # The temporal dynamics of group interactions in higher-order social networks
 
 This repository contains the code required to reproduce the results presented in the following paper:
-- I. Iacopini, G. Petri, A. Baronchelli & A. Barrat (2021), [The temporal dynamics of group interactions in higher-order social networks
+- I. Iacopini, M. Karsai & A. Barrat (2023), [The temporal dynamics of group interactions in higher-order social networks
 ](https://arxiv.org/abs/2306.09967), ArXiv preprint 2306.09967 (2023).
 
 # Data
