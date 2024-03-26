@@ -5,10 +5,6 @@ This repository contains the code required to reproduce the results presented in
 ](https://arxiv.org/abs/2306.09967), ArXiv preprint 2306.09967 (2023).
 
 # Data
-
-The Copenhagen Network Study data are available from the original source~\cite{sapiezynski2019interaction} at \href{https://doi.org/10.6084/m9.figshare.7267433}{https://doi.org/10.6084/m9.figshare.7267433}.
-The DyLNet data are available from the original source~\cite{dai2022longitudinal} at \href{https://doi.org/10.7303/syn26560886}{https://doi.org/10.7303/syn26560886}. The GESIS data are available upon request from the original source~\cite{genois2023combining} at \href{https://doi.org/10.7802/2351}{https://doi.org/10.7802/2351}.
-
  
  This study relies on publicly available datasets that have been collected and released in previous publications:
  
